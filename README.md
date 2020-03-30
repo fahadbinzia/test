@@ -1,6 +1,5 @@
-# test
-
 ## Introduction
+This is Introduction text.
 
 ## New Heading
 
