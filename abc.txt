@@ -1,2 +1,4 @@
 hello
 no fast forward merge
+
+new addition
