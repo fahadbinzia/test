@@ -1,8 +1,2 @@
 hello
 no fast forward merge
-
-<<<<<<< HEAD
-new change
-=======
-new addition
->>>>>>> d2921b6ad331ce7a85cb9a5fc1d7f2ff08046341
